@@ -10,6 +10,5 @@ const vehicle = props => (
 <p>Manufacture:{props.Manufacture}</p>
 <p>Fuel:{props.Fuel}</p>
 </div>
-
 );
 export default vehicle;
