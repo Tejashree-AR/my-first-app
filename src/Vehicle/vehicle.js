@@ -9,6 +9,7 @@ const vehicle = props => (
 <p> Name:{props.Name}</p>
 <p>Manufacture:{props.Manufacture}</p>
 <p>Fuel:{props.Fuel}</p>
+<p>Comment:{props.Childern} </p>
 </div>
 );
 export default vehicle;
